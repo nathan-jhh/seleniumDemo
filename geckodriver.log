@@ -1,0 +1,544 @@
+1537290822701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sMxba3wU9aCC"
+1537290826224	Marionette	INFO	Listening on port 41687
+1537290826310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537290826365	Marionette	DEBUG	[2147483649] Frame script loaded
+1537290826407	Marionette	DEBUG	[2147483649] Frame script registered
+1537290826501	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537290829230	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537290831009	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.python.org/
+1537290831656	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.python.org/
+1537290831766	Marionette	INFO	Stopped listening on port 41687
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1537290883071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WSeetyseA6t2"
+1537290885918	Marionette	INFO	Listening on port 34943
+1537290886019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537290886091	Marionette	DEBUG	[2147483649] Frame script loaded
+1537290886092	Marionette	DEBUG	[2147483649] Frame script registered
+1537290886111	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537290889936	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537290892638	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.python.org/
+1537290896066	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.python.org/
+[Parent 9832, Gecko_IOThread] WARNING: pipe error (68): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537290922730	Marionette	INFO	Stopped listening on port 34943
+1537290956148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rm8r6bAz9mYh"
+1537290959098	Marionette	INFO	Listening on port 33649
+1537290959157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537290959216	Marionette	DEBUG	[2147483649] Frame script loaded
+1537290959250	Marionette	DEBUG	[2147483649] Frame script registered
+1537290959286	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537290962154	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537290963123	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.python.org/
+1537290966024	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.python.org/
+1537290966153	Marionette	INFO	Stopped listening on port 33649
+1537292384426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W8OuYOFy3lJR"
+1537292387186	Marionette	INFO	Listening on port 44759
+1537292387252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537292387323	Marionette	DEBUG	[2147483649] Frame script loaded
+1537292387333	Marionette	DEBUG	[2147483649] Frame script registered
+1537292387387	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537292390124	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537292390395	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292390436	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292488398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ud4W27coCGLV"
+1537292491339	Marionette	INFO	Listening on port 42645
+1537292491439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537292491516	Marionette	DEBUG	[2147483649] Frame script loaded
+1537292491561	Marionette	DEBUG	[2147483649] Frame script registered
+1537292491580	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537292493196	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537292493448	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292493470	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292493549	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292496043	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292496044	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537292496109	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537292496153	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537292575857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KVVbpWdtEVnT"
+1537292578878	Marionette	INFO	Listening on port 42615
+1537292578968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537292579292	Marionette	DEBUG	[2147483649] Frame script loaded
+1537292579293	Marionette	DEBUG	[2147483649] Frame script registered
+1537292579321	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537292582299	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537292582905	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292582925	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292583001	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292583502	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292583503	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537292583577	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537292583621	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537292583662	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537292583891	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537292583891	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 11354, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537292685076	Marionette	INFO	Stopped listening on port 42615
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 11101, Gecko_IOThread] WARNING: pipe error (66): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537292693795	Marionette	INFO	Stopped listening on port 42645
+1537292700364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xDHPt2oX5UBa"
+1537292703492	Marionette	INFO	Listening on port 43141
+1537292703616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537292703681	Marionette	DEBUG	[2147483649] Frame script loaded
+1537292703688	Marionette	DEBUG	[2147483649] Frame script registered
+1537292703708	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537292706139	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537292706348	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292706357	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292706437	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292707887	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537292707888	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537292707983	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537292708001	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537292708035	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537292708173	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537292708174	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+1537292708271	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537292708375	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537292708406	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537292708636	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537292708636	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537292708742	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537292708779	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1537292708785	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://yqgx.bupt.edu.cn
+[Parent 10873, Gecko_IOThread] WARNING: pipe error (68): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537293181854	Marionette	INFO	Stopped listening on port 44759
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://yqgx.bupt.edu.cn
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://yqgx.bupt.edu.cn
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 11692, Gecko_IOThread] WARNING: pipe error (48): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537293987496	Marionette	INFO	Stopped listening on port 43141
+1537294592820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DiSRgs1hI97h"
+1537294595503	Marionette	INFO	Listening on port 35993
+1537294595538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537294595606	Marionette	DEBUG	[2147483649] Frame script loaded
+1537294595638	Marionette	DEBUG	[2147483649] Frame script registered
+1537294595690	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537294598552	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537294598892	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294600150	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294600218	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294602356	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294602358	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537294602450	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537294602469	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537294602530	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537294602746	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537294602747	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+1537294602838	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294602945	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294602984	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294603047	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294603048	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294603131	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294603181	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1537294603185	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294603210	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294603346	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294603347	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294603408	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294603466	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294603490	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294603575	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294603577	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294603678	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294603705	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294610904	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://yqgx.bupt.edu.cn
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 12819, Gecko_IOThread] WARNING: pipe error (71): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537294780158	Marionette	INFO	Stopped listening on port 35993
+1537294781646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UZKDeb5l0etu"
+1537294784465	Marionette	INFO	Listening on port 36871
+1537294784588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537294784641	Marionette	DEBUG	[2147483649] Frame script loaded
+1537294784648	Marionette	DEBUG	[2147483649] Frame script registered
+1537294784667	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537294787426	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537294787677	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294787696	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294787771	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294790406	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294790407	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537294790491	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537294790527	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537294790552	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537294790764	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537294790765	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+1537294790856	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294790954	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294790987	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294791051	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294791051	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294791120	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294791160	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1537294791162	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294791204	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294791312	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294791313	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294791406	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294791450	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294791471	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294791561	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294791562	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294791666	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294791702	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294796303	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 13127, Gecko_IOThread] WARNING: pipe error (61): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537294845711	Marionette	INFO	Stopped listening on port 36871
+1537294849194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EzFRXIjrnfK0"
+1537294851917	Marionette	INFO	Listening on port 40773
+1537294852032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537294852107	Marionette	DEBUG	[2147483649] Frame script loaded
+1537294852113	Marionette	DEBUG	[2147483649] Frame script registered
+1537294852132	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537294853799	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537294854115	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294854124	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294854233	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294854913	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537294854915	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537294855005	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537294855028	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537294855076	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537294855260	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537294855260	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+1537294855352	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294855462	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294855495	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294855550	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294855551	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537294855620	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294855656	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1537294855664	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294855683	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294855787	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294855788	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537294855853	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294855901	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294855922	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294855993	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294855994	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294856080	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294856122	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294856210	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294860658	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294860660	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537294860723	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537294860759	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+[Parent 13347, Gecko_IOThread] WARNING: pipe error (71): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537296010933	Marionette	INFO	Stopped listening on port 40773
+1537296142514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UEvK2iIlIZJR"
+1537296145361	Marionette	INFO	Listening on port 38471
+1537296145430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537296145496	Marionette	DEBUG	[2147483649] Frame script loaded
+1537296145522	Marionette	DEBUG	[2147483649] Frame script registered
+1537296145558	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537296148595	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537296148798	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537296148873	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537296148940	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537296149461	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537296149462	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537296149527	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537296149592	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537296149638	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537296149749	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537296149749	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 14034, Gecko_IOThread] WARNING: pipe error (68): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537296475567	Marionette	INFO	Stopped listening on port 38471
+1537296476879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3Xu3hxxTL89H"
+1537296479663	Marionette	INFO	Listening on port 34351
+1537296479697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537296479765	Marionette	DEBUG	[2147483649] Frame script loaded
+1537296479797	Marionette	DEBUG	[2147483649] Frame script registered
+1537296479832	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537296482591	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537296483034	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537296483061	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537296483169	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537296484529	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537296484530	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537296484615	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537296484688	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537296486717	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537296486829	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537296486830	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+1537296486932	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537296487050	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537296489087	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537296489142	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537296489143	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537296489230	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537296489269	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1537296489274	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537296491305	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537296491399	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537296491400	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537296491472	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296491515	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296493550	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296493611	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296493612	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296493710	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296493748	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296495852	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296498403	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296498405	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296498458	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296498490	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296502531	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296502642	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296502643	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296502709	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296502748	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296506774	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296506844	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296506845	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296506913	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296506954	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296509067	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296511662	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296511663	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296511719	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296511749	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296515784	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296515885	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296515887	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537296515946	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537296515986	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 14390, Gecko_IOThread] WARNING: pipe error (68): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537296705875	Marionette	INFO	Stopped listening on port 34351
+1537300867305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gqpzx14xup0N"
+1537300870132	Marionette	INFO	Listening on port 45093
+1537300870249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537300870308	Marionette	DEBUG	[2147483649] Frame script loaded
+1537300870309	Marionette	DEBUG	[2147483649] Frame script registered
+1537300870325	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537300873098	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537300873319	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537300873672	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537300873739	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537300875104	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537300875105	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537300875181	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537300875264	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537300877304	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537300877407	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537300877408	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+1537300877501	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537300877601	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537300879635	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537300879697	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537300879698	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537300879769	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537300879809	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1537300879813	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537300881843	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537300881930	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537300881931	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537300882019	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537300882063	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537300884101	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537300884169	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537300884171	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537300884273	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537300884313	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537301284506	Marionette	INFO	Stopped listening on port 45093
+1537301299911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uAUXOC5y3tJj"
+1537301302634	Marionette	INFO	Listening on port 38365
+1537301302738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537301302799	Marionette	DEBUG	[2147483649] Frame script loaded
+1537301302801	Marionette	DEBUG	[2147483649] Frame script registered
+1537301302836	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537301305766	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537301306024	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537301306090	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537301306170	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537301307600	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+1537301307601	Marionette	DEBUG	[2147483649] Received DOM event unload for https://auth.bupt.edu.cn/authserver/login?service=http%3A%2F%2Fyqgx.bupt.edu.cn%2Fcers%2Fapprove_login%3Fnext%3Dhttps%253A%252F%252Fyqgx.bupt.edu.cn%252Fcers%252F
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1537301307684	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/
+1537301307725	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/
+1537301309752	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/
+1537301309869	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/
+1537301309869	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/
+1537301309964	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537301310069	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537301312101	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537301312147	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537301312148	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/instrus/?cpermission=cers.group.member
+1537301312222	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537301312259	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1537301312277	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537301314305	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537301314392	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537301314393	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/cultivate/?instrusId=ff8080814b582672014b77260187049b&audit=1&groupId=
+1537301314464	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301314511	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301316546	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301316666	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301316667	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301316771	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301316809	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301318912	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301321521	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301321523	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301321581	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301321611	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301325646	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301325919	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301325921	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301325988	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301326026	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301330057	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301330213	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301330214	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301330284	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301330322	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301332438	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301334926	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301334928	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301334987	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301335017	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301339054	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301339141	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301339143	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301339220	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301339262	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301343291	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301343350	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301343353	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301343416	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301343455	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301345552	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301348020	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301348021	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301348083	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301348115	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301352149	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301352240	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301352242	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301352318	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301352358	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301356392	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301356445	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301356446	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301356513	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301356555	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301358646	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301361123	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301361124	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301361177	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301361205	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301365237	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301365339	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301365341	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301365416	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301365458	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301369486	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301369541	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301369542	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301369613	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301369653	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301371745	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301374190	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301374192	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/!edit?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301374260	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301374293	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301378333	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301378521	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301378524	Marionette	DEBUG	[2147483649] Received DOM event unload for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/
+1537301378578	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+1537301378641	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://yqgx.bupt.edu.cn/cers/cers/machineUseInfo/?audit=1&instrusId=ff8080814b582672014b77260187049b
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://yqgx.bupt.edu.cn/cers/s/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 16523, Gecko_IOThread] WARNING: pipe error (68): 连接被对方重设: file /build/firefox-_R2Kgd/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537301514735	Marionette	INFO	Stopped listening on port 38365
